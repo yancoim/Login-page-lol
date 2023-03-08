@@ -57,7 +57,7 @@ const App2 = () => {
           </div>
           <div className="flex flex-col justify-center items-center my-6 gap-3">
             <a className="uppercase font-semibold text-xs text-gray-500 hover:text-black cursor-pointer">
-              Não consgue fazer login?
+              Não consegue fazer login?
             </a>
             <a className="uppercase font-semibold text-xs text-gray-500 hover:text-black cursor-pointer">
               Criar conta
